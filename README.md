@@ -24,10 +24,11 @@ update dependency in <b>module-level</b> build.gradle file :
 
 <pre>classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"</pre>
 
-# Usage 
+# Usage
+In this tutorial, we are going to learn how to use SQLite using Kotlin. To really understand the usage
+of SQLite we will create an app using Kotlin. The App contains simple Login form, Registration form.
+This app shows how SQLite database operations are performed. I assume that you have created a new android
+project.
 
-In this tutorial, we are going to learn how to use SQLite using Kotlin. To really understand the usage of SQLite we will create an app using Kotlin. The App contains simple Login form, Registration form. This app shows how SQLite database operations are performed. I assume that you have created a new android project.
-
-ScreenShots of output :
-![output_one](app/src/main/res/drawable/output_one.png)
-![output_two](app/src/main/res/drawable/output_two.png)
+# output :
+![output_one](app/src/main/res/drawable/output_one.png) ![output_two](app/src/main/res/drawable/output_two.png)
